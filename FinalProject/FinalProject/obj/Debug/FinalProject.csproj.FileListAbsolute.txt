@@ -1,0 +1,50 @@
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.AnaForm.resources
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Yemeklerim2.resources
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Yenitarifekle.resources
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Yenitarifekle2.resources
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Yenitarifekle3.resources
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Yenitarifekle4.resources
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.ozelmenu.resources
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.rapor.resources
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\RdlCompile.cache
+C:\Users\Bedirhan\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\RdlCompile.compiled
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.AnaForm.resources
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.ozelmenu.resources
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.rapor.resources
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Yemeklerim2.resources
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Yenitarifekle.resources
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Yenitarifekle2.resources
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Yenitarifekle3.resources
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Yenitarifekle4.resources
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\RdlCompile.cache
+F:\PROJE YEDEKLERİ\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\RdlCompile.compiled
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\FinalProject.AnaForm.resources
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\FinalProject.ozelmenu.resources
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\FinalProject.rapor.resources
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\FinalProject.Yemeklerim2.resources
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\FinalProject.Yenitarifekle.resources
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\FinalProject.Yenitarifekle2.resources
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\FinalProject.Yenitarifekle3.resources
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\FinalProject.Yenitarifekle4.resources
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\RdlCompile.cache
+F:\DERS\2014-2015\Nesneye Yönelik Programlama\FinalProject\FinalProject\obj\Debug\RdlCompile.compiled
